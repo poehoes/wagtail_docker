@@ -1,7 +1,7 @@
 # Dockerized **Wagtail 5?**
 ![wagtail_nuxt banner](https://github.com/ordigital/wagtail_nuxt/blob/main/wagtail_nuxt.jpg?raw=true)
 ---
-# **For developement:**
+# **For development:**
 
 ## 1. Clone repository
 ```bash
