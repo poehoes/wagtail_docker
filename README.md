@@ -1,4 +1,4 @@
-# Dockerized **Wagtail 4** + **NuxtJS 3** + **Graphene 3** + **Vuetify 3**
+# Dockerized **Wagtail 5?**
 ![wagtail_nuxt banner](https://github.com/ordigital/wagtail_nuxt/blob/main/wagtail_nuxt.jpg?raw=true)
 ---
 # **For developement:**
