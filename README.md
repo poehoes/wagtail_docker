@@ -1,5 +1,5 @@
 # Dockerized **Wagtail 5?**
-![wagtail_nuxt banner](https://github.com/ordigital/wagtail_nuxt/blob/main/wagtail_nuxt.jpg?raw=true)
+![wagtail_nuxt banner](https://github.com/poehoes/wagtail_docker/blob/main/wagtail_docker.1200x630.jpg?raw=true)
 ---
 # **For development:**
 
