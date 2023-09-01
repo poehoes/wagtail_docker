@@ -5,7 +5,7 @@
 
 ## 1. Clone repository
 ```bash
-$ git clone git@github.com:ordigital/wagtail_nuxtjs.git && cd wagtail_nuxtjs
+$ git clone git@github.com:poehoes/wagtail_docker.git && cd wagtail_nuxtjs
 ```
 
 ## 2. Build Docker images
